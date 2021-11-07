@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christianwondeson
 - 👀 I’m interested in making programs in general
-- 🌱 I’m currently learning c# , wpf and unity game engine
+- 🌱 I’m currently learning c# , wpf , javascript ,react ,html and css and unity game engine
 - 💞️ I’m looking to collaborate on wpf apps
 - 📫 How to reach me on email :- christianwoondeson22@gmail.com
 
