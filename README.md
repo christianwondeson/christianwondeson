@@ -60,7 +60,7 @@
 <p align="left">
 
 <a href = "https://www.gmail.com/in/christianwondeson22@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
+<a href = "https://www.instagram.com/christianwondeson/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 </p>
 
 ## ❤ Views and Followers
