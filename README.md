@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **christianwondeson22@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and explore**
 
 ## 🚀 Languages and Tools:
 
