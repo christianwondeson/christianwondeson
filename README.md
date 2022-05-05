@@ -61,6 +61,7 @@
 
 <a href = "https://www.gmail.com/in/christianwondeson22@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 <a href = "https://www.instagram.com/christianwondeson/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
+<a href = "https://www.linkedin.com/in/christian-wondeson-288438239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0AFlEx6gR%2BqFS6LN6kn%2FVA%3D%3D"><img src="https//img.icons*.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## ❤ Views and Followers
