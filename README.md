@@ -43,45 +43,6 @@
 
   <br/>
     <a href="https://github.com/christianwondeson/github-readme-stats"><img alt="christian Github Stats" src="https://github-readme-stats.vercel.app/api?username=christianwondeson&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  &emsp;
- <a href="https://developer.android.com/kotlin/learn?gclid=CjwKCAiA1uKMBhAGEiwAxzvX9-rANBxCDjtzAwEQqBUyOkTwcxHZvV8poWrSFQH-ibY2ADdGVgRqvBoCcQwQAvD_BwE&gclsrc=aw.ds" target="_blank">
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
-</a>
-  &emsp;
-   <a href="https://www.r-project.org/">
-   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-   </a>
-     &emsp;
-   <a href="https://www.r-project.org/">
-   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"
-   </a>
-     &emsp;
-   <a href="https://www.r-project.org/">
-   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
-   </a>
-</p>
-    
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
