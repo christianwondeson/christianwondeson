@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>chris</b></h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm <b>chris</b></h1>
 <h3 align="center" id="header"><b>I'm a learner for life.</b></h3>
 
 ## 🙋‍♂️ About Me
