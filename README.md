@@ -69,7 +69,7 @@
  -->
  
  # 💫 About Me:
-I am currently working on web development<br>I am aspiring to be front-end and back-end<br>I am looking to collaborate on back-end web dev<br>I am currently learning Reactjs  vanilla-javascript in ES6<br>you can ask me on web development at it finest<br>I like to play game and solve problems !
+I am currently working on web development<br>I am aspiring to be front-end and back-end developer<br>I am looking to collaborate on back-end web development<br>I am currently learning Reactjs  vanilla-javascript in ES6<br>you can ask me on web development at it finest<br>I like to play game and solve problems !
 
 
 ## 🌐 Socials:
