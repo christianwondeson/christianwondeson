@@ -66,11 +66,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/christianwondeson?tab=followers"><img src="https://img.shields.io/github/followers/christianwondeson?label=Followers&style=social" alt="GitHub Badge"></a>
- --> -->
  -->
- 
- 
- 
  
  # 💫 About Me:
 I am currently working on web development<br>I am aspiring to be front-end and back-end<br>I am looking to collaborate on back-end web dev<br>I am currently learning Reactjs  vanilla-javascript in ES6<br>you can ask me on web development at it finest<br>I like to play game and solve problems !
@@ -95,11 +91,6 @@ I am currently working on web development<br>I am aspiring to be front-end and b
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=christianwondeson&icon=5&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
  
  
  
