@@ -67,8 +67,7 @@
 ## ❤ Views and Followers
 <a href="https://github.com/christianwondeson?tab=followers"><img src="https://img.shields.io/github/followers/christianwondeson?label=Followers&style=social" alt="GitHub Badge"></a>
  -->
- 
- <iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
+ <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">via GIPHY</a></p>
  
  # 💫 About Me:
 I am currently working on web development<br>I am aspiring to be front-end and back-end developer<br>I am looking to collaborate on back-end web development<br>I am currently learning Reactjs  vanilla-javascript in ES6<br>you can ask me on web development at it finest<br>I like to play game and solve problems !
