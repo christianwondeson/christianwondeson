@@ -67,11 +67,7 @@
 ## ❤ Views and Followers
 <a href="https://github.com/christianwondeson?tab=followers"><img src="https://img.shields.io/github/followers/christianwondeson?label=Followers&style=social" alt="GitHub Badge"></a>
  -->
- 
- <div style={"align-items:center"}>
-    ![giphy](https://user-images.githubusercontent.com/72356458/210135196-6ed51483-57b6-4cee-845c-57e85692a959.gif)
-    </div>
-
+![giphy](https://user-images.githubusercontent.com/72356458/210135196-6ed51483-57b6-4cee-845c-57e85692a959.gif) 
  
 # 💫 About Me:
 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>I'm willing to collaborate on website development<br>I'm really fun guy to work with<br> In my free time, I solve problems on code wars platform and read tech articles and books.<br>
