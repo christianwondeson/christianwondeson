@@ -70,7 +70,7 @@
  
 ![giphy](https://user-images.githubusercontent.com/72356458/210135306-d5aa68a7-422b-4e8d-a7e3-e63b34fa2f21.gif)
 # 💫 About Me:
-🔭 I’m currently working on website development using Flask and Django<br>👯 I’m looking to collaborate on frontend development using Djando<br>🤝 I’m looking for help with Block Chain development<br>🌱 I’m currently learning Machine Learning and Block Chain development<br>💬 Ask me about React Js and JavaScript<br>⚡ Fun fact I like to play games and read articles about new technologies
+🔭 I’m currently working on website development using Flask and Django<br>👯 I’m looking to collaborate on frontend development using Django<br>🤝 I’m looking for help with Block Chain development<br>🌱 I’m currently learning Machine Learning and Block Chain development<br>💬 Ask me about React Js and JavaScript<br>⚡ Fun fact I like to play games and read articles about new technologies
 
 
 ## 🌐 Socials:
